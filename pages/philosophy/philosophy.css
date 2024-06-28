@@ -1,0 +1,43 @@
+
+.ph-header {
+    margin-top: 121px;
+    margin-left: 115px;
+}
+
+.ph-text {
+    margin-top: 66px;
+    margin-left: 340px;
+    color: #fff;
+}
+
+.ph-text span {
+    line-height: 1.4em;
+}
+
+.ph-p {
+    max-width: 740px;
+    margin-bottom: 30px;
+}
+
+.ph-p .source-code-pro-400 {
+    font-size: 20px;
+}
+
+.ph-p .cormorant-garamond-light-italic {
+    font-size: 22px;
+}
+
+.ph-box {
+    background: rgba(43, 41, 42, 0.7);
+    padding: 32px;
+    text-align: right;
+    font-size: 22px;
+
+    border-radius: 10px;
+    margin-bottom: 18px;
+
+    max-width: 584px;
+    margin-left: 143px;
+
+    justify-content: flex-end;
+}
